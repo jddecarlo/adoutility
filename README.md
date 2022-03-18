@@ -1,7 +1,7 @@
 
 # ADO Utility
 
-A utility program for accessing and managing Azure DevOps from a custom UI.
+A utility program for accessing and managing [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) from a custom UI.
 
 ## Building
 
