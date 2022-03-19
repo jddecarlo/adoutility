@@ -1,3 +1,3 @@
 @echo off
 
-py.test -v %*
+python -m pytest -v %*

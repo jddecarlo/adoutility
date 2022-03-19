@@ -1,3 +1,2 @@
-@echo off
-
+#!/bin/zsh
 python -m build --wheel
